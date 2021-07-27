@@ -47,16 +47,10 @@ function App() {
 						</Col>
 					  </Row>
 					  <Row>
-
 							<footer className="footer"><h3>App Digivice React Boostrap</h3></footer>
 					  </Row>
 				</Router>
 				</Container>
-		
-		
-		
-		
-		
     </div>
   );
 }

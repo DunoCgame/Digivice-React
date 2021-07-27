@@ -14,7 +14,7 @@ import {
 
 
 function DigiviceNameList() {
-  const [error, setError] = useState(null);
+  const [error, setError] = useState();
   const [isLoaded, setIsLoaded] = useState(false);
   const [items, setItems] = useState([]);
 

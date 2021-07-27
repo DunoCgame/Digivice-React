@@ -4,6 +4,7 @@ import { useParams } from 'react-router-dom'; //para url
 
 
 function DigimonSelect(prop){
+	
   const [error, setError] = useState(null);
   const [isLoaded, setIsLoaded] = useState(false);
   const [items, setItems] = useState([]);
